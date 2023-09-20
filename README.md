@@ -9,7 +9,7 @@ Have a zeal for <b>penetration testing</b> and <b>problem-solving</b>, thus, lik
 ## 👨🏽‍💻 Experience
 
 <div>
-    <h3 style="padding:0px; margin:0px;">JAPAN BANGLADESH IT Ltd | <span style="font-weight:normal; font-size:20px;"> Software Engineer <span> </h3>
+    <h3 style="padding:0px; margin:0px;">JAPAN BANGLADESH IT Ltd | <span style="font-weight:500 !important;; font-size:20px !important; color:#555555 !important;"> Software Engineer <span> </h3>
     <p> Jan 2023 - Present | Dhaka, Bangladesh</p>
 </div>
 <ul>
