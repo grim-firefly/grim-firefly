@@ -101,20 +101,20 @@ Multiple Schools which increased its performance by about <b>30%</b>  </li>
 
 
 
-##📫 Links
+## 📫 Links
 
 <div style="display:flex;gap:0.25rem;">
 
-<a href="https://codeforces.com/profile/Grim_Firefly" target="blank">
+<a href="https://codeforces.com/profile/Grim_Firefly" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Grim_Firefly"/>
 </a>
-<a href="https://leetcode.com/grim_firefly" target="blank">
+<a href="https://leetcode.com/grim_firefly" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="grim_firefly"/>
 </a>
-<a href="https://stackoverflow.com/users/17059236/md-khairul-hasan-sajid" target="blank">
+<a href="https://stackoverflow.com/users/17059236/md-khairul-hasan-sajid" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="md-khairul-hasan-sajid"/>
 </a>
-<a href="https://www.hackerrank.com/grim_firefly" target="blank">
+<a href="https://www.hackerrank.com/grim_firefly" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="grim_firefly"/>
 </a>
 
@@ -124,20 +124,20 @@ Multiple Schools which increased its performance by about <b>30%</b>  </li>
 
 <div style="display:flex;gap:0.25rem;">
 
-<a href="https://linkedin.com/in/khairulhasansajid" target="blank">
+<a href="https://linkedin.com/in/khairulhasansajid" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="khairulhasansajid" />
 </a>
-<a href="mailto:khairulhasansajid@gmail.com" target="blank">
+<a href="mailto:khairulhasansajid@gmail.com" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khairulhasansajid" />
 </a>
-<a href="https://github.com/grim-firefly" target="blank">
+<a href="https://github.com/grim-firefly" target="_blank">
 <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="khairulhasansajid" />
 </a>
 
-<a href="https://fb.com/khairulhasansajid" target="blank">
+<a href="https://fb.com/khairulhasansajid" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="khairulhasansajid" />
 </a>
-<a href="https://wa.me/01644944967" target="blank">
+<a href="https://wa.me/01644944967" target="_blank">
 <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="khairulhasansajid" />
 </a>
 
@@ -155,12 +155,10 @@ Multiple Schools which increased its performance by about <b>30%</b>  </li>
 
 
 
-
 ## 📈 GitHub Stats
 <div style="display:flex;gap:1rem;">
 <img style="height:150px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grim-firefly&theme=github" alt="grim-firefly" />
 
-<img  style="height:150px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=grim-firefly&theme=github" alt="grim-firefly" />
 </div>
 
 
