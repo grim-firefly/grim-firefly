@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://github.com/grim-firefly/grim-firefly/blob/main/web-cover.gif?raw=true" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://raw.githubusercontent.com/grim-firefly/grim-firefly/main/skill-cover.jpg" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm MD Khairul Hasan👋</h1>
 <p>
 
