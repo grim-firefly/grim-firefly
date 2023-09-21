@@ -2,7 +2,7 @@
 <h1>Hi there, I'm MD Khairul Hasan👋</h1>
 <p>
 
-Have a zeal for <b>penetration testing</b> and <b>problem-solving</b>, thus, like to involve myself in constant learning, always curious about learning new things.I am a <b>Probelm Solver</b>. My max rating in CodeForces is <b>1476</b>.I'm a passionate Web Developer from Bangladesh with over <b>1 years</b> of experience in building web applications using <b>Golang, PHP, Laravel, ReactJS,NextJS , MySQL </b> etc
+Have a zeal for <b>penetration testing</b> and <b>problem-solving</b>, thus, like to involve myself in constant learning, always curious about learning new things.I am a <b>Probelm Solver</b>.I'm a passionate Web Developer from Bangladesh with over <b>1 years</b> of experience in building web applications using <b>Golang, PHP, Laravel, ReactJS,NextJS , MySQL </b> etc
 
 </p>
 
